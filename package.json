@@ -1,0 +1,17 @@
+{
+  "name": "production_grade_project",
+  "version": "1.0.0",
+  "description": "A Full Industry Standard Backend Code",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Chrabon Dey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
